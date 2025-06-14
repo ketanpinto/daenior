@@ -391,21 +391,21 @@ export default function Home() {
                 role: "1.2M Subscribers",
                 image: "/placeholder.svg?height=48&width=48",
                 quote:
-                  "Working with Alex has been a game-changer for my channel. The editing quality is top-notch, and my viewers constantly comment on how professional my videos look now.",
+                  "Working with Daenior has been a game-changer for my channel. The editing quality is top-notch, and my viewers constantly comment on how professional my videos look now.",
               },
               {
                 name: "RedstoneWizard",
                 role: "850K Subscribers",
                 image: "/placeholder.svg?height=48&width=48",
                 quote:
-                  "The attention to detail is incredible. Alex understands the Minecraft community and knows exactly how to highlight the most exciting moments in my builds.",
+                  "The attention to detail is incredible. Daenior understands the Minecraft community and knows exactly how to highlight the most exciting moments in my builds.",
               },
               {
                 name: "SurvivalPro",
                 role: "2.4M Subscribers",
                 image: "/placeholder.svg?height=48&width=48",
                 quote:
-                  "Since working with Alex, my channel has grown by 40%. The thumbnails are eye-catching, and the editing style keeps viewers watching until the end.",
+                  "Since working with Daenior, my channel has grown by 40%. The thumbnails are eye-catching, and the editing style keeps viewers watching until the end.",
               },
             ].map((testimonial, i) => (
               <Card key={i} className="bg-white border-4 border-[#5C8D62] overflow-hidden">
